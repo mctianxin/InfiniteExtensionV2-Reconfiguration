@@ -8,3 +8,6 @@
 - 感谢游玩
 - 前置插件:
   - InfinityExpansion<无尽科技>
+# Bug反馈
+- 邮箱:
+  - 2079942492@qq.com
